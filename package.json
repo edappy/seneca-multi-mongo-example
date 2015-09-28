@@ -1,0 +1,16 @@
+{
+  "name": "multi-tenant-mongo",
+  "version": "1.0.0",
+  "description": "Multi-tenanted Mongo example using Seneca Mongo Data Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eoin Shanaghy <eoin.shanaghy@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "seneca": "^0.6.5",
+    "seneca-mongo-store": "^0.2.0"
+  }
+}
