@@ -12,5 +12,9 @@
     "lodash": "^3.10.1",
     "seneca": "^0.6.5",
     "seneca-mongo-store": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LSEducation/seneca-multi-mongo-example.git"
   }
 }
